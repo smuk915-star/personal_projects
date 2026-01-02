@@ -1,0 +1,12 @@
+Problem Statement:
+Phishing attacks exploit human trust by disguising malicious emails as legitimate communication. Traditional rule‑based detection systems struggle to adapt to evolving phishing tactics. This project aims to develop a machine‑learning model capable of automatically classifying emails as phishing or legitimate using textual and structural features.
+
+Goals:
+
+- Build a labeled phishing email dataset
+
+- Extract meaningful textual features
+
+- Train and evaluate multiple ML classifiers
+
+- Achieve high precision and recall on phishing detection
